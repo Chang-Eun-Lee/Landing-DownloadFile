@@ -1,0 +1,8 @@
+version: 2.3.88
+files:
+  - url: SignalFlow-Setup-2.3.88.exe
+    sha512: W3FvfAVQHf7OnE1eIJeDEwE/i5DxuG+jycNrU0S4A2QQlqNnh7zan/dYUT42d3/56xTOV2NcIFeSjOAUFhDJgQ==
+    size: 307578357
+path: SignalFlow-Setup-2.3.88.exe
+sha512: W3FvfAVQHf7OnE1eIJeDEwE/i5DxuG+jycNrU0S4A2QQlqNnh7zan/dYUT42d3/56xTOV2NcIFeSjOAUFhDJgQ==
+releaseDate: '2025-12-30T17:03:37.837Z'
